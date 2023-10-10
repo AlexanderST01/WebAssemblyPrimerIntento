@@ -1,0 +1,8 @@
+C:\ProgramacionApliacada3-2023(1)\WebAssemblyPrimerIntento\WebAssemblyPrimerIntento\Server\obj\Debug\net7.0\WebAssemblyPrimerIntento.Server.csproj.AssemblyReference.cache
+C:\ProgramacionApliacada3-2023(1)\WebAssemblyPrimerIntento\WebAssemblyPrimerIntento\Server\obj\Debug\net7.0\WebAssemblyPrimerIntento.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramacionApliacada3-2023(1)\WebAssemblyPrimerIntento\WebAssemblyPrimerIntento\Server\obj\Debug\net7.0\WebAssemblyPrimerIntento.Server.AssemblyInfoInputs.cache
+C:\ProgramacionApliacada3-2023(1)\WebAssemblyPrimerIntento\WebAssemblyPrimerIntento\Server\obj\Debug\net7.0\WebAssemblyPrimerIntento.Server.AssemblyInfo.cs
+C:\ProgramacionApliacada3-2023(1)\WebAssemblyPrimerIntento\WebAssemblyPrimerIntento\Server\obj\Debug\net7.0\WebAssemblyPrimerIntento.Server.csproj.CoreCompileInputs.cache
+C:\ProgramacionApliacada3-2023(1)\WebAssemblyPrimerIntento\WebAssemblyPrimerIntento\Server\obj\Debug\net7.0\WebAssemblyPrimerIntento.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\ProgramacionApliacada3-2023(1)\WebAssemblyPrimerIntento\WebAssemblyPrimerIntento\Server\obj\Debug\net7.0\WebAssemblyPrimerIntento.Server.RazorAssemblyInfo.cache
+C:\ProgramacionApliacada3-2023(1)\WebAssemblyPrimerIntento\WebAssemblyPrimerIntento\Server\obj\Debug\net7.0\WebAssemblyPrimerIntento.Server.RazorAssemblyInfo.cs
